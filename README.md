@@ -1,8 +1,8 @@
-# My Open Source Contributions
+## My Open Source Contributions
 
 Automatically tracks and displays all my contributions to open source projects across GitHub.
 
-## Contributions
+### Contributions
 
 <!-- OSS_CONTRIBUTIONS_START -->
 **Total Contributions:** 21 PRs across 2 projects

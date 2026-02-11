@@ -132,8 +132,7 @@ def generate_markdown(repos):
     total_prs = sum(len(prs) for prs in repos.values())
     merged_prs = sum(1 for prs in repos.values() for pr in prs if pr['merged'])
     
-    markdown.append(f"**Total Contributions:** {total_prs} PRs across {len(repos)} projects\n")
-    markdown.append(f"**Merged:** {merged_prs} PRs\n")
+    markdown.append(f"**Total Contributions:** {total_prs} PRs across {len(repos)} projects | **Merged:** {merged_prs} PRs\n")
     markdown.append("")
     
     for repo_name, prs in sorted_repos:
