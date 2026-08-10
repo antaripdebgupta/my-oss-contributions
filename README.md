@@ -5,7 +5,7 @@ Automatically tracks and displays all my contributions to open source projects a
 ### Contributions
 
 <!-- OSS_CONTRIBUTIONS_START -->
-**Total Contributions:** 23 PRs across 2 projects | **Merged:** 22 PRs
+**Total Contributions:** 22 PRs across 1 projects | **Merged:** 22 PRs
 
 
 ### [RUXAILAB](https://github.com/ruxailab/RUXAILAB)
@@ -35,16 +35,10 @@ Automatically tracks and displays all my contributions to open source projects a
 | #736 | [Fix: Add validation to prevent empty CSV file upload](https://github.com/ruxailab/RUXAILAB/pull/736) | Merged |
 | #730 | [[Fix] Use dynamic copyright year](https://github.com/ruxailab/RUXAILAB/pull/730) | Merged |
 
-### [blog](https://github.com/ruxailab/blog)
-
-| # | PR | Status |
-|---|---|--------|
-| #8 | [feat: add homepage search to filter posts by title](https://github.com/ruxailab/blog/pull/8) | Open |
-
 <!-- OSS_CONTRIBUTIONS_END -->
 
 ---
 
 <p align="center">
-  <sub>Last updated: <i><!-- TIMESTAMP -->2026-08-03 06:30 UTC<!-- TIMESTAMP --></i></sub>
+  <sub>Last updated: <i><!-- TIMESTAMP -->2026-08-10 04:45 UTC<!-- TIMESTAMP --></i></sub>
 </p>
